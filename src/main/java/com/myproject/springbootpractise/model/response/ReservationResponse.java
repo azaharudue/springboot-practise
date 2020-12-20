@@ -1,4 +1,4 @@
-package com.myproject.springbootpractise.response;
+package com.myproject.springbootpractise.model.response;
 
 import com.myproject.springbootpractise.model.Links;
 
