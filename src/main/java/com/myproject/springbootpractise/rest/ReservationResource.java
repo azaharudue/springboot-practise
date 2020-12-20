@@ -1,6 +1,6 @@
 package com.myproject.springbootpractise.rest;
 import com.myproject.springbootpractise.model.request.ReservationRequest;
-import com.myproject.springbootpractise.response.ReservationResponse;
+import com.myproject.springbootpractise.model.response.ReservationResponse;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
