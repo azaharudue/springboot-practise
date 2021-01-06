@@ -12,7 +12,7 @@
 	<artifactId>springboot-practise</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-practise</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A project for practising Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
